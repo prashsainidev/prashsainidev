@@ -1,7 +1,7 @@
 <!-- Header & Introduction -->
 <div align="center" style="margin: 40px 0;">
   <h1>Hi 👋, I'm Prashant Saini <img src="./assets/animations/party_blob.gif" width="28" alt="Party Blob"/></h1>
-  
+
   <!-- Responsive Hero Image -->
   <div align="center" style="margin: 20px 0;">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Descriptive Alt Text" style="width: 100%; max-width: 600px; height: auto;">
@@ -14,7 +14,7 @@
   <!-- Visitor Counter -->
   <div align="center" style="margin: 20px 0;">
     <b>✦ Visitor Count ✦</b><br>
-    <img src="https://profile-counter.glitch.me/prashant-saini/count.svg" alt="Visitor Count"/>
+    <img src="https://profile-counter.glitch.me/prashsainidev/count.svg" alt="Visitor Count"/>
   </div>
 
   <p>
@@ -25,16 +25,16 @@
 <!-- Introduction Section -->
 <div style="margin: 20px auto; max-width: 800px; padding: 0 10px;">
   <h2 align="center">🙋‍♂️ About Me</h2>
-  
+
   <!-- Horizontal Profile Image -->
-  <img 
-    src="./assets/images/GDG.png" 
-    alt="My Profile Image" 
+  <img
+    src="./assets/images/GDG.png"
+    alt="My Profile Image"
     style="display: block; width: 100%; height: auto; margin: 20px 0;"
   />
-  
+
   <p style="text-align: left;">
-    Hey there! I'm Prashant Saini, a passionate full-stack developer from Aligarh, Uttar Pradesh. I love exploring new technologies and building innovative projects. Over the years, I've built a variety of projects (feel free to check out my <a href="https://github.com/prashantsaini1525?tab=repositories" target="_blank">repositories</a>) and I'm constantly evolving as a developer.
+    Hey there! I'm Prashant Saini, a passionate full-stack developer from Aligarh, Uttar Pradesh. I love exploring new technologies and building innovative projects. Over the years, I've built a variety of projects (feel free to check out my <a href="https://github.com/prashsainidev?tab=repositories" target="_blank">repositories</a>) and I'm constantly evolving as a developer.
   </p>
   <ul style="text-align: left; margin-top: 10px;">
     <li>🌟 <strong>Who I Am:</strong> A curious and driven developer who thrives on challenges and continuous learning.</li>
@@ -56,7 +56,7 @@
   <div style="flex: 1; min-width: 300px;">
     <h3 style="color:#444;">Professional Connections</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-      <a href="https://github.com/prashantsaini1525" title="GitHub" target="_blank" style="text-decoration: none;">
+      <a href="https://github.com/prashsainidev" title="GitHub" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 8px;"/>
       </a>
       <a href="https://www.linkedin.com/in/prashantssaini/" title="LinkedIn" target="_blank" style="text-decoration: none;">
@@ -101,33 +101,33 @@
 
   <!-- Top Languages -->
   <p align="center" style="margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsaini1525&theme=tokyonight&layout=compact&langs_count=8" width="47%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashsainidev&theme=tokyonight&layout=compact&langs_count=8" width="47%" alt="Top Languages" />
   </p>
 
   <!-- Repositories and Stars -->
   <p align="center" style="margin: 20px 0;">
-    <a href="https://github.com/prashantsaini1525?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=prashantsaini1525&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
+    <a href="https://github.com/prashsainidev?tab=repositories">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=prashsainidev&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/prashantsaini1525?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=prashantsaini1525&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" />
+    <a href="https://github.com/prashsainidev?tab=stars">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=prashsainidev&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" />
     </a>
   </p>
-  
+
   <!-- Divider for Top Contributed Repo -->
   <!-- <hr style="margin: 40px 0;"/> -->
   <!-- Top Contributed Repo Heading -->
   <h2 align="center">🔝 Top Contributed Repo</h2>
   <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=prashantsaini1525&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=prashsainidev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   </p>
-  
+
   <!-- Divider for GitHub Trophies -->
   <!-- <hr style="margin: 40px 0;"/> -->
   <!-- GitHub Trophies Heading -->
   <h2 align="center">🏆 GitHub Trophies</h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=prashantsaini1525&theme=tokyonight&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=prashsainidev&theme=tokyonight&row=1" alt="GitHub Trophies" />
   </p>
 </div>
 
@@ -209,8 +209,8 @@
 
 <!-- Contribution Graph -->
   <div align="center" style="margin: 40px 0;">
-    <a href="https://github.com/prashantsaini1525">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsaini1525&theme=react-light&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph" width="95%" alt="Contribution Graph">
+    <a href="https://github.com/prashsainidev">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashsainidev&theme=react-light&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph" width="95%" alt="Contribution Graph">
     </a>
   </div>
 
