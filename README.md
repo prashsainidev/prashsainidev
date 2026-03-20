@@ -26,7 +26,8 @@
   <h2 align="center">🙋‍♂️ About Me</h2>
 
   <!-- Horizontal Profile Image -->
-  <img
+
+<img
     src="./assets/images/GDG.png"
     alt="My Profile Image"
     style="display: block; width: 100%; height: auto; margin: 20px 0;"
@@ -58,10 +59,10 @@
       <a href="https://github.com/prashsainidev" title="GitHub" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 8px;"/>
       </a>
-      <a href="https://www.linkedin.com/in/prashantssaini/" title="LinkedIn" target="_blank" style="text-decoration: none;">
+      <a href="https://www.linkedin.com/in/prashsainidev/" title="LinkedIn" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border-radius: 8px;"/>
       </a>
-      <a href="https://x.com/Prashan58889893" title="Twitter" target="_blank" style="text-decoration: none;">
+      <a href="https://x.com/prashsainidev" title="Twitter" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" style="border-radius: 8px;"/>
       </a>
       <a href="https://prashant-pi.vercel.app" title="Portfolio" target="_blank" style="text-decoration: none;">
@@ -73,7 +74,7 @@
   <div style="flex: 1; min-width: 300px;">
     <h3 style="color:#444;">Personal Connections</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-      <a href="https://www.facebook.com/prashant.saini.31508076/" title="Facebook" target="_blank" style="text-decoration: none;">
+      <a href="https://www.facebook.com/prashsainidev/" title="Facebook" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" style="border-radius: 8px;"/>
       </a>
       <a href="https://instagram.com/prashant_saini_1525" title="Instagram" target="_blank" style="text-decoration: none;">
@@ -97,7 +98,6 @@
 
   <!-- Main Section Heading -->
   <h2 align="center">📊 GitHub Stats</h2>
-
   <!-- Top Languages -->
   <p align="center" style="margin: 20px 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashsainidev&theme=tokyonight&layout=compact&langs_count=8" width="47%" alt="Top Languages" />
@@ -112,8 +112,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=prashsainidev&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" />
     </a>
   </p>
-
-
 
 <!-- Random Dev Quote Section (Aligned with Other Sections) -->
 <div align="center" style="margin: 20px 0;">
